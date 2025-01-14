@@ -24,6 +24,27 @@ function ItemListContainer() {
         category: 'electronica',
         image: '/public/Smartphone.jpg'
       },
+      {
+        id: '3',
+        title: 'Lavadora Mabe',
+        price: 6750,
+        category: 'hogar',
+        image: '/public/Lavadora.webp'
+      },
+      {
+        id: '4',
+        title: 'Samsung Galaxy Z Flip 6 256 Gb 8 Gb Silver',
+        price: 19999,
+        category: 'electronica',
+        image: '/public/samsung.webp'
+      },
+      {
+        id: '5',
+        title: 'Motocicleta eléctrica Aima Sweety Plus 2023',
+        price: 12399,
+        category: 'vehiculos',
+        image: '/public/moto.webp'
+      },
     ];
 
     const filtered = id 
